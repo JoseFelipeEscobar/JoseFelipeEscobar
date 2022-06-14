@@ -9,7 +9,7 @@ My activities
   * 🌱 I’m currently mastering React with Jest🃏
   * 🛰️ I’m looking to collaborate on whatever you need, no doubt in contact me.
   * 🔎 How to reach me, see my portfolio and follow me.
-## Contact me 
+## Contact me 📭
 we can learn and enjoy building amazing code ⚒️
 
 
