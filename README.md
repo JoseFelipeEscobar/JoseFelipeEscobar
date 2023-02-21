@@ -1,7 +1,7 @@
 # Hi 🤝, I’m Jose Felipe Escobar 👨‍💻👾
 I’m a web developer who believes the internet is a magical place for creators ✨.
 <br> Now i am focused on providing the best accessibility and user experiences, working with technologies such as 
-JavaScript, React.js :electron: In addition to providing logic and adaptability to applications with Node.js, Java(Spring)🍃
+Angular In addition to providing logic and adaptability to applications with Node.js, Java(Spring)🍃
 <br> TDD with mocha, supertest, chai and Jest 🧪
 <br>
 My activities 
